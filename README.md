@@ -44,7 +44,10 @@ I’m open to new opportunities — whether in **Full-Stack Engineering** or **S
 
 
 ## Learning Resources that I followed
-👉 [Check Here🔗](./LEARNING-RESOURCES.md)
+
+👉 [Web3 Learning Resources 🔗](./LEARNING-RESOURCES.md)
+
+👉 [General Software Engg. Resources 🔗](./General-software-engg-resources.md)
 
 <!--
 **deepakkashyap3013/deepakkashyap3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
