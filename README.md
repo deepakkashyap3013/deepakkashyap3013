@@ -43,6 +43,8 @@ I’m open to new opportunities — whether in **Full-Stack Engineering** or **S
 | [Liquity V2](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)             | Collateralized Debt Platform(CDP) | Cantina | - | [📄]  |
 
 
+## Learning Resources that I followed
+[Link 🔗](./LEARNING-RESOURCES.md)
 
 <!--
 **deepakkashyap3013/deepakkashyap3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
