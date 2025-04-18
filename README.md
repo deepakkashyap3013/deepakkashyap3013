@@ -45,7 +45,7 @@ I’m open to new opportunities — whether in **Full-Stack Engineering** or **S
 
 ## Learning Resources that I followed
 
-👉 [Web3 Learning Resources 🔗](./LEARNING-RESOURCES.md)
+👉 [Web3 Learning Resources 🔗](./Web3-learning-resources.md)
 
 👉 [General Software Engg. Resources 🔗](./General-software-engg-resources.md)
 
