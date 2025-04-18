@@ -7,7 +7,7 @@ I'm Deepak Kashyap, a Web3 Full-Stack Engineer with 2.5+ years of experience bui
 - **Languages:** TypeScript / JavaScript, Solidity ; *Familiar with:* Python, Java, Go, Rust
 - **Frameworks & Libraries:** Next.js, React, Express.js, NestJS
 - **Databases:** Postgres, MongoDB, Pinecone
-- **DevOps & Tools:** Docker, Kubernetes, AWS S3, Linux, RabbitMQ, Distributed Systems
+- **DevOps & Tools:** Docker, Kubernetes, AWS S3, Linux, RabbitMQ, Kafka, Distributed Systems
 - **Bot Integrations:** Proficient in building bots and integrations for Discord, Slack, and Telegram
 
 ## Background
