@@ -1,21 +1,46 @@
-## Hello 👋
+## Hey there 👋 
 
-I'm a Deepak Kashyap, a Web3 Full-Stack Engineer with over 2.5+ Yrs of Exp in different Blockchain-based startups.
+I'm Deepak Kashyap, a Web3 Full-Stack Engineer with 2.5+ years of experience building products across blockchain startups.
+
+## Tech Stack
+
+- **Languages:** TypeScript / JavaScript, Solidity ; *Familiar with:* Python, Java, Go, Rust
+- **Frameworks & Libraries:** Next.js, React, Express.js, NestJS
+- **Databases:** Postgres, MongoDB, Pinecone
+- **DevOps & Tools:** Docker, Kubernetes, AWS S3, Linux, RabbitMQ, Distributed Systems
+- **Bot Integrations:** Proficient in building bots and integrations for Discord, Slack, and Telegram
 
 ## Background
 
-From passing university exams in Fluid Mechanics and Theory of Machines to diving deep into the space of software engineering and gradually developing interest in Blockchain and WEB3, In my yoe I have worked on various domains from contributing and managing open source forked codebases like [Analyzer](https://github.com/dapplooker/analyzer)  to delivering cool AI products one of such is [AI Studio](https://dapplooker.com/ai-studio?protocol=ethereum) and winning ETHIndia 2022 for Polygon Technology: Best Public goods and The Graph: The Graph - pool prize [Link](https://devfolio.co/projects/dataquest-quest-queries-and-earn-e896). 
+From passing university exams in Fluid Mechanics and Theory of Machines 🧑‍🎓 to diving deep into software engineering, my journey into Web3 started with curiosity and quickly turned into a passion. 
+
+Over the years, I’ve shipped code to production-ready dapps, contributed to and maintained forked open-source projects like [Analyzer](https://github.com/dapplooker/analyzer), developed products like [AI Studio](https://dapplooker.com/ai-studio/), a smart AI tool converting NLQ to Visualization for blockchain data and many more...
+
+Apart from this, I’ve also led the architecture and development of impactful features at organizations I’ve been part of, always aiming to create scalable, efficient and most importantly **MAINTAINABLE** solutions.
+
+One of the highlights of my journey was winning **ETHIndia 2022** —  
+🏆 *Polygon Technology: Best Public Goods*  
+🏆 *The Graph: Pool Prize*  
+👉 [Check out the project](https://devfolio.co/projects/dataquest-quest-queries-and-earn-e896)
 
 
-*Portfolio/Contact Me 👉 [Link](https://bento.me/0xkashyap)*
+## Lately into Smart Contract Security
+
+Currently from Feb 2025, I’ve been diving into smart contract security — auditing, learning, and competing in public contests on platforms like: [Cantina](https://cantina.xyz/) , [Sherlock](https://www.sherlock.xyz/) , [Code4rena](https://code4rena.com/), [Immunifi](https://immunefi.com/).
+
+## Let’s Connect
+
+I’m open to new opportunities — whether in **Full-Stack Engineering** or **Security Research**.
+
+**Portfolio/Contact Me 👉 [Link](https://bento.me/0xkashyap)**
 
 
 ## Security Reviews
 
-| Projects                                                           | Description      | Platform   | Result |                         Report                         |  
+| Projects                                                           | Description      | Platform   | Result |                         Public Report                         |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
-| [Liquity V2](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)             | Collateralized Debt Platform(CDP) | Cantina | - | [📄]  |
 | [Infinifi Protocol](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b)           | The Fractional Reserve Stablecoin | Cantina  | - | [📄]  |
+| [Liquity V2](https://cantina.xyz/competitions/d86632df-ab33-4448-8198-64955eae6712)             | Collateralized Debt Platform(CDP) | Cantina | - | [📄]  |
 
 
 
@@ -23,14 +48,15 @@ From passing university exams in Fluid Mechanics and Theory of Machines to divin
 
 | Resources                                                           |  Description      | Link |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- |
-Smart Contract Development | Cyfrin Updraft Course | [Resource Link](https://updraft.cyfrin.io/courses)
-Smart Contract Security	| Cyfrin Updraft course | [Resource Link](https://updraft.cyfrin.io/courses/security) |
-Solidity Security: Comprehensive list of known attack vectors and common anti-patterns | Atricle |  [Resource Link](https://blog.sigmaprime.io/solidity-security.html) |
+Smart Contract Development | Cyfrin Updraft Course  | [Resource Link](https://updraft.cyfrin.io/courses) |  
+Smart Contract Security | Cyfrin Updraft course |  [Resource Link](https://updraft.cyfrin.io/courses/security)|
+Solidity Security (SigmaPrime article) | Atricle |  [Resource Link](https://blog.sigmaprime.io/solidity-security.html) |
+Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course | [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
 Uniswap V2 Cyfrin Updraft	| Cyfrin Updraft Course |  [Resource Link](https://updraft.cyfrin.io/courses/uniswap-v2) 
 Advanced Web3 Security Course - Part 1 | Owen Thrum's course on youtube | [Resource Link](https://www.youtube.com/watch?v=DRZogmD647U) |
 Advanced Web3 Security Course - Part 2 |  Owen Thrum's course on youtube | [Resource Link](https://www.youtube.com/watch?v=zLnxRvf6IMA) |
-MixBytes Research Blogs | Article | [Resource Link](https://mixbytes.io/blog)
-Damn Vulnerable Defi | Practice | [Resource Link](https://www.damnvulnerabledefi.xyz/)
+MixBytes Research Blogs | Article | [Resource Link](https://mixbytes.io/blog) | 
+Damn Vulnerable Defi | Practice | [Resource Link](https://www.damnvulnerabledefi.xyz/) |
 
 
 ## General Software Engg. Learning Resources
