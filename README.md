@@ -1,6 +1,6 @@
 ## Hey there 👋 
 
-I'm Deepak Kashyap, a Full-Stack Engineer with 2.5+ years of experience building products across blockchain startups.
+I'm Deepak Kashyap, a Full-Stack Engineer with 2.5+ years of experience building products across various startups, including international teams.
 
 ## Tech Stack
 
