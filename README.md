@@ -1,6 +1,6 @@
 ## Hey there 👋 
 
-I'm Deepak Kashyap, a Full-Stack Engineer with 2.5+ years of experience building products across various startups, including international teams.
+I'm Deepak Kashyap, a Full-Stack Engineer with 3+ years of experience building products across various startups, including international teams.
 
 ## Tech Stack
 
@@ -26,16 +26,16 @@ One of the highlights of my journey was winning **ETHIndia 2022** —
 
 ## Lately into Smart Contract Security
 
-Currently from Feb 2025, I’ve been diving into smart contract security — auditing, learning, and competing in public contests on platforms like: [Cantina](https://cantina.xyz/) , [Sherlock](https://www.sherlock.xyz/) , [Code4rena](https://code4rena.com/), [Immunifi](https://immunefi.com/).
+From Feb-Jun 2025, I dived deep into smart contract security — auditing, learning, and competing in public contests on platforms like: [Cantina](https://cantina.xyz/) , [Sherlock](https://www.sherlock.xyz/) , [Code4rena](https://code4rena.com/), [Immunifi](https://immunefi.com/).
 
 ## Let’s Connect
 
-I’m open to new opportunities — whether in **Full-Stack Engineering** or **Security Research**.
+I’m open to new opportunities — whether in **Full-Stack Engineering** or **Backend Engineering**.
 
 **Portfolio/Contact Me 👉 [Link](https://bento.me/0xkashyap)**
 
 
-## Security Reviews
+## Attempted Security Reviews
 
 | Projects                                                           | Description      | Platform   | Result |                         Public Report                         |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
