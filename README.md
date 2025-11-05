@@ -24,7 +24,7 @@ One of the highlights of my journey was winning **ETHIndia 2022** —
 👉 [Check out the project](https://devfolio.co/projects/dataquest-quest-queries-and-earn-e896)
 
 
-## Lately into Smart Contract Security
+## Smart Contract Security
 
 From Feb-Jun 2025, I dived deep into smart contract security — auditing, learning, and competing in public contests on platforms like: [Cantina](https://cantina.xyz/) , [Sherlock](https://www.sherlock.xyz/) , [Code4rena](https://code4rena.com/), [Immunifi](https://immunefi.com/).
 
